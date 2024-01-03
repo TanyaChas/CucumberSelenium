@@ -16,7 +16,7 @@ import org.testng.Assert;
 public class LoginPageStep {
     private WebDriver driver;
     private LoginPage loginPage;
-    private Object Arguments;
+    private Object Arguments;    // for open page in javascript form
     private String Script;
     private Object button;
 
